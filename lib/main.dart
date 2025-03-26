@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget{
           margin: EdgeInsets.all(10),
           padding: EdgeInsets.all(10),
           color:Colors.grey,
-         child:Expanded(child: GridView.builder(gridDelegate:SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 3,
+         child:Expanded(child: GridView.builder(gridDelegate:SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 4,
 
            crossAxisSpacing: 10,
            mainAxisSpacing: 10,
